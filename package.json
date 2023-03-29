@@ -33,11 +33,13 @@
   },
   "dependencies": {
     "connect-chain": "^0.0.1",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "http-errors": "^2.0.0",
     "jade": "^1.11.0",
     "mocha": "^10.2.0",
     "mongoose": "^7.0.2",
+    "nodemailer": "^6.9.1",
     "passport": "^0.6.0"
   }
 }
